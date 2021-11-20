@@ -18,6 +18,6 @@ module "ec2withBranch" {
 ### Example 3: GitHub Source:
 ```sh
 module "mod" {
-  source = "https://github.com/themohamedfaizal/terraform"
+  source = "github.com/themohamedfaizal/terraform"
 }
 ```
