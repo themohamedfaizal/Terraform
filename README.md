@@ -7,7 +7,7 @@ module "mod" {
   source = "github.com/themohamedfaizal/terraform"
   access_key = "key"
   secret_key = "key"
-  ami           = "ami-"
+  ami        = "ami-"
 }
 
 
