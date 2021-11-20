@@ -40,7 +40,7 @@ variable "ami" {
 
 }
 
-variable "count" {
+variable "countt" {
   type = number
   default = 1
   

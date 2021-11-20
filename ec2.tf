@@ -3,7 +3,7 @@ resource "aws_instance" "LinuxClass" {
   instance_type   = var.instance_type
   key_name        = "fzy"
   security_groups = ["TFcreated"]
-  count           = var.count
+  count           = var.countt
 
 
 
