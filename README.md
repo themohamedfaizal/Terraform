@@ -1,13 +1,4 @@
-# terraform
-Terraform Modules
-
-
-## Documentation Referred:
-
-https://www.terraform.io/docs/modules/sources.html#github
-
-
-## GIT Sources used during demo:
+# Terraform Modules
 
 ### Example 1: Generic GIT Repository:
 
