@@ -36,7 +36,7 @@ variable "tags" {
 }
 
 variable "ami" {
-  default = data.aws_ami.ubuntu_ami.id
+  
 
 }
 
